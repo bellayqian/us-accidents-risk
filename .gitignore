@@ -1,0 +1,7 @@
+data/
+*.csv
+__pycache__/
+.env
+venv/
+.DS_Store
+test_package.py
