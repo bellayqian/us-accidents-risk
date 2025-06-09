@@ -1,3 +1,0 @@
-[console_scripts]
-us-accidents-analyze = scripts.risk_analysis:main
-us-accidents-download = scripts.download_data:main
